@@ -1,0 +1,10 @@
+# Terraform
+.terraform/
+*.tfstate
+*.tfstate. *
+*.tfstate.backup
+
+
+# Backups
+*.bak 
+*~
